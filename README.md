@@ -5,7 +5,7 @@
 
 <div>
 <h2>
-- 🔭 I’m currently working on my porject front end 
+- 🔭 I’m currently working on my project front end 
 - 🌱 I’m currently learning books about tecnology and literature fanstastic
 - 🎮 I have two YouTube channels: the first features videos on personal development, while the second focuses on live gaming streams and game reactions.
 - 📖 I study Information Technology and Design, ilustrations, drawing in my sketchbooks.
