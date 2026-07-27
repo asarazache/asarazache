@@ -1,4 +1,4 @@
-## Hi there! Hey 👋What's Up? My name is Sara Zache 
+## Hi there! My name is Sara Zache 
 
 <!--
 **asarazache/asarazache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
