@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my porject front end 
 - 🌱 I’m currently learning books about tecnology and literature fanstastic
+- 🎮 I have two YouTube channels: the first features videos on personal development, while the second focuses on live gaming streams and game reactions.
+- 📖 I study Information Technology and Design, ilustrations, drawing in my sketchbooks.
+- 💻 I'm putting together a programming setup.
 -->
 
 <h1 data-importer="text" align="center"></h1>
